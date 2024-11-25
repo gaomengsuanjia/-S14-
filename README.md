@@ -17,6 +17,16 @@
 - 数据涵盖选手的各项核心指标，如 KDA、场均击杀、场均死亡等。
 - 细化到每分钟视野分数、野区控制等高级数据。
 
+***
+## 数据示例：
+| TeamName | PlayerName | Position | Games | ...  | Penta Kills | Solo Kills | Country | FlashKeybind |
+| -------- | ---------- | -------- | ----- | ---- | ----------- | ---------- | ------- | ------------ |
+|Top Esports|369|Top|8|...|0|2|China|D|
+|Dplus KIA|aiming|Adc| 9     |...|0|2|South Korea|F|
+|MAD Lions KOI|alvaro|Support|5|...|0|0|Spain|D|
+|...|...|...|...|...|...|...|...|...|
+|LNG Esports|zika|Top|8|...|0|2|China|D|
+***
 ## 数据总览：
 
 ![战队平均胜率](https://github.com/user-attachments/assets/6a78d114-5b25-4b94-8705-5a95f13a1f4a)
@@ -90,7 +100,7 @@
 1. 克隆此项目：
 
    ```git
-   git clone <repo-url>
+   git clone https://github.com/gaomengsuanjia/-S14-.git
    ```
 
 2. 安装所需依赖：
