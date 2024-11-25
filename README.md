@@ -19,35 +19,35 @@
 
 ## 数据总览：
 
-![战队平均胜率](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003227281.png)
+![战队平均胜率](https://github.com/user-attachments/assets/6a78d114-5b25-4b94-8705-5a95f13a1f4a)
 
-![选手国家分布](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003342263.png)
 
+![选手国家分布](https://github.com/user-attachments/assets/24f6e1ad-8761-40be-b61d-5e48979eb047)
 
 
 ***
 
 ## 主要数据
 
-![场均击杀榜](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003438484.png)
+![场均击杀榜](https://github.com/user-attachments/assets/1a22dbfa-e730-476b-aa9c-2d49a23c545c)
 
-![场均KDA榜](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003458850.png)
+![场均KDA榜](https://github.com/user-attachments/assets/438d32c2-9de6-4eff-bfc5-6c9dbae5e97a)
 
-![场均死亡榜](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003516411.png)
+![场均死亡榜](https://github.com/user-attachments/assets/3fbcd5c1-697d-4c59-9af6-0f47f31821cb)
 
-![场均助攻榜](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003539273.png)
+![场均助攻榜](https://github.com/user-attachments/assets/40a7ef25-2689-4892-9116-9531c254def1)
 
 ****
 
 **其中每分钟视野分数(VSPM)、每分钟赢得的野区分数(每分钟赢得的野区分数)、每分钟控制野区分数(Avg WCPM)、每分钟视野控制分数(Avg VWPM)各自的权重为1，可自行更改**
 
-![辅助野区视野排行](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126003627091.png)
+![辅助野区视野排行](https://github.com/user-attachments/assets/620ce513-d15e-40e3-9339-a4ac9b1b2a6a)
 
 **各位置场均击杀箱形图：**
 
-![各位置场均击杀](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004021015.png)
+![各位置场均击杀](https://github.com/user-attachments/assets/4e7ced62-49ce-4769-aeef-f38bd820e839)
 
-![闪现按键](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004101790.png)
+![闪现按键](https://github.com/user-attachments/assets/bdd2ea3f-94a2-4e3f-a168-e246d5526b47)
 
 ***
 
@@ -64,21 +64,22 @@
 - DPM (每分钟伤害)
 - VSPM (每分钟视野分数)
 
-![我的主队1](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004202316.png)
+![我的主队1](https://github.com/user-attachments/assets/ab48dd7f-af6c-4d04-9017-be9a4fde6786)
 
-![我的主队2](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004222226.png)
+![我的主队2](https://github.com/user-attachments/assets/988e6c1a-bc22-4863-8538-320517a0c6a5)
+
 
 ***
 
 ## 整体效果
 
-![整体效果1](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004434139.png)
+![整体效果1](https://github.com/user-attachments/assets/ff870245-1f67-4949-a63c-f9683356d952)
 
-![整体效果2](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004447792.png)
+![整体效果2](https://github.com/user-attachments/assets/f320fcfa-703f-49de-ac89-d8e92b63d433)
 
-![整体效果3](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004503807.png)
+![整体效果3](https://github.com/user-attachments/assets/1fa46789-2af2-487b-bf87-6385de34b154)
 
-![整体效果4](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241126004520842.png)
+![整体效果4](https://github.com/user-attachments/assets/657c30b2-0e28-4542-ac1f-08145f60663d)
 
 > 完整效果请访问生成的 HTML 页面
 
