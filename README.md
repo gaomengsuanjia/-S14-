@@ -99,10 +99,6 @@
 
 1. 克隆此项目：
 
-   ```git
-   git clone https://github.com/gaomengsuanjia/-S14-.git
-   ```
-
 2. 安装所需依赖：
 
    ```
@@ -115,6 +111,6 @@
    python main.py
    ```
 
-4. 在浏览器中打开生成的 HTML 文件，欣赏可视化效果(推荐使用谷歌)
+4. 在浏览器中打开index.html，欣赏可视化效果(推荐使用谷歌)
 
 
